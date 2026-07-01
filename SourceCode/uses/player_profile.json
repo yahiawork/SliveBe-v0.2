@@ -1,0 +1,8 @@
+{
+  "name": "ya",
+  "color_index": 0,
+  "use_player_image": false,
+  "time_limit": 240.0,
+  "enemy_multiplier": 1.0,
+  "show_area_names": true
+}
