@@ -1,5 +1,4 @@
 # Founder & Developer = Yahia
-# Designer & sounder = Yahia
-# Tester & Planner = Yahia
+# Designer & Tester = Nizar
 # Team = Yahia & Nizar
 
